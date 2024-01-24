@@ -1,4 +1,4 @@
-<keymap version="1" name="$Base Mac OS Keymap For Windows">
+<keymap version="1" name="Base Mac OS Keymap For Windows">
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="alt c" />
     <keyboard-shortcut first-keystroke="alt insert" />
